@@ -10,6 +10,16 @@
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+									})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-74478070-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -35,9 +45,9 @@
 								<ul class="dropdown-menu">
 									<li><a href="america-latina.php">América Latina</a></li>
 									<li><a href="ricon-cerezos.php">Rincón de los Cerezos (Preventa)</a></li>
-									<li><a href="">Los Encinos Oriente (Preventa)</a></li>
-									<li><a href="">Desarrollo Comercial Plaza Colón 305 (Próximamente)</a></li>
-									<li><a href="">Los Encinos Oriente lotes habitacionales</a></li>
+									<li><a href="encinos-oriente.php">Encinos Oriente (Preventa)</a></li>
+									<li><a href="plaza-colon.php">Comercial Plaza Colón 305 (Preventa)</a></li>
+									<li><a href="encinos-lotes.php">Encinos Oriente Lotes Habitacionales</a></li>
 								</ul>
 							</li>
 							<li><a href="<?php if( !($thispage == 'index') ) echo 'index.php'; ?>#contacto" class="smoothScroll">Contacto</a></li>
