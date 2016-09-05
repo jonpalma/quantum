@@ -880,40 +880,142 @@ a.white:hover, a.white:focus {
 /* RINCÓN DE LOS CEREZOS */
 
 /* COLÓN */
+.colon .banner {
+    height: auto;
+}
+
 .colon .description {
     position: relative;
     overflow: hidden;
 }
 
+.colon .description .header .bold {
+    position: relative;
+    font-size: 40px;
+}
+
+.colon .description .header .bold::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    width: 20%;
+    border-bottom: 7px solid #5a8091;
+}
+
 .colon .description img {
     position: absolute;
-    top: 0;
+    top: 50%;
     left: 50%;
     min-width: 50vw;
     width: 700px;
     z-index: -1;
+    min-height: 100%;
 }
 
-.colon .preventa {
-    border: 2px solid #4a4a4a;
-    color: #4a4a4a;
-    padding: 10px 0;
-    max-width: 300px;
+.colon .analisis {
+    background: url(img/colon/analisis.png) no-repeat center center;
+    background-size: cover;
+}
+
+.colon .analisis .container h1 {
+    text-align: center;
+    font-family: 'Righteous', sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.colon .analisis .container .bold {
+    position: relative;
+    font-size: 45px;
+}
+
+.colon .analisis .container .bold::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    width: 10%;
+    border-bottom: 7px solid #ffffff;
+}
+
+.colon .analisis .container .aforo .col-sm-4 {
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #fbfcfd;
+}
+
+.colon .analisis .container .aforo .col-sm-4 .img-container {
+    height: 160px;
+}
+
+.colon .analisis .container .aforo .col-sm-4 .img-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.colon .distincion .banner {
+    height: auto;
+}
+
+.colon .distincion .banner img {
+    width: 100%;
     margin: 0 auto;
-    font-family: Merriweather Sans;
-    font-size: 25px;
 }
 
-.prox {
-    background-color: #5a8091;
-    text-transform: uppercase;
-    font-family: Righteous;
-    height: 194px;
+.colon .distincion .content {
+    height: 500px;
+    background: url(img/colon/distincion.png) no-repeat center center;
+    background-size: cover;
 }
 
-.prox h1 {
-    font-size: 60px;
+.colon .distincion h1 {
+    font-family: 'Righteous', sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
 }
+
+.colon .opciones {
+    position: relative;
+    overflow: hidden;
+}
+
+.colon .opciones .header .bold {
+    font-size: 40px;
+}
+
+.colon .opciones .container ul {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #58585a;
+}
+
+.colon .opciones .container li {
+    margin-top: 10px;
+}
+
+.colon .opciones img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 50vw;
+    width: 700px;
+    z-index: -1;
+    min-height: 100%;
+}
+
+.colon .lotificacion img {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+
 /* COLÓN */
 
 /* ENCINOS LOTES HABITACIONALES */
