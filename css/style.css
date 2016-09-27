@@ -856,7 +856,7 @@ a.white:hover, a.white:focus {
 }
 .preventa h2 {
     color: #87866e;
-    font: 400 65px Righteous;
+    font: 400 65px 'Righteous';
     width: 508px;
     margin: 20px auto;
     border: 4px solid #6f6b69;
@@ -914,7 +914,7 @@ a.white:hover, a.white:focus {
 }
 
 .colon .analisis {
-    background: url(img/colon/analisis.png) no-repeat center center;
+    background: url(../img/colon/analisis.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -968,7 +968,7 @@ a.white:hover, a.white:focus {
 
 .colon .distincion .content {
     height: 500px;
-    background: url(img/colon/distincion.png) no-repeat center center;
+    background: url(../img/colon/distincion.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -1016,6 +1016,15 @@ a.white:hover, a.white:focus {
 }
 
 
+
+.colon .lotificacion .banner {
+    height: auto;
+}
+
+.colon .lotificacion .banner img {
+    width: 100%;
+    margin: 0 auto;
+}
 /* COLÓN */
 
 /* ENCINOS LOTES HABITACIONALES */
@@ -1426,9 +1435,37 @@ footer {
     .prox h1 {
         font-size: 35px;
     }
-    .colon .preventa {
-        font-size: 20px;
-        padding: 7px 0;
+    .colon .description .header .bold {
+        font-size: 30px;
+    }
+    .colon .description .header .bold::after {
+        border-bottom: 4px solid #5a8091;
+    }
+    .colon .description .text {
+        font-size: 14px;
+    }
+    .colon .analisis .container .bold {
+        font-size: 30px;
+    }
+    .colon .analisis .container .bold::after {
+        border-bottom: 4px solid #ffffff;
+    }
+    .colon .analisis .container .aforo .col-sm-4 {
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    .colon .distincion .content {
+        height: 400px;
+    }
+    .colon .distincion h1 {
+        font-size: 30px;
+    }
+    .colon .opciones .header .bold {
+        font-size: 30px;
+    }
+    .colon .opciones .container ul {
+        margin-top: 20px;
+        font-size: 12px;
     }
 }
 

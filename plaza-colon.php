@@ -39,14 +39,14 @@
                     <h1 class="header blue text-left">TU SITIO DE <span class="bold">ENCUENTRO</span></h1>
                     <p class="text">
                         Ubicada entre  Av. Colón y Niños Héroes de la Ciudad de 
-                        Chihuahua, contará con más de 111 cajones de estacionamiento. 
+                        Chihuahua, contará con más de 125 cajones de estacionamiento. 
                         Su ubicación estratégica es una salida natural del Centro de la 
                         Ciudad hacia vialidades importantes. Siendo así la mejor
                         plaza de la ciudad.
                     </p>
                 </div>
                 <div class="col-sm-6"></div>
-                <img class="hidden-xs transform-center-vertical" src="img/colon/tienda.png">
+                <img class="hidden-xs transform-center-vertical" src="img/colon/img1.jpg">
             </div>
         </div>
     </section>
@@ -96,7 +96,7 @@
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
     <section class="distincion" id="distincion">
         <div class="banner">
-            <img src="img/colon/distincion-banner.png" alt="">
+            <img src="img/colon/distincion-banner.jpg" alt="">
         </div>
         <div class="content">
             <h1 class="transform-center-vertical">DISTINCIÓN A TU ALCANCE</h1>
@@ -119,7 +119,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-6"></div>
-                <img class="hidden-xs transform-center-vertical" src="img/colon/tienda2.png">
+                <img class="hidden-xs transform-center-vertical" src="img/colon/img2.jpg">
             </div>
         </div>
     </section>
@@ -129,6 +129,9 @@
 
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
     <section class="lotificacion" id="lotificacion">
+        <div class="banner">
+            <img src="img/colon/contactanos.jpg" alt="">
+        </div>
         <img src="img/colon/colon-lotificacion1.png" alt="">
         <img src="img/colon/colon-lotificacion2.png" alt="">
     </section>
