@@ -7,34 +7,19 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img class="no-drag" src="img/banner/rincon-cerezos.jpg" alt="Banner">
+					<img class="no-drag" src="img/cerezos/banner/banner1.jpg" alt="Banner">
 				</div>
 				<div class="item">
-					<img class="no-drag" src="img/banner/map.jpg" alt="Banner">
+					<img class="no-drag" src="img/cerezos/banner/banner2.jpg" alt="Banner">
 				</div>
 				<div class="item">
-					<img class="no-drag" src="img/banner/t-118.jpg" alt="Banner">
+					<img class="no-drag" src="img/cerezos/banner/banner3.jpg" alt="Banner">
 				</div>
 				<div class="item">
-					<img class="no-drag" src="img/banner/t-149.jpg" alt="Banner">
+					<img class="no-drag" src="img/cerezos/banner/banner4.jpg" alt="Banner">
 				</div>
 				<div class="item">
-					<img class="no-drag" src="img/banner/parque-cerezos.jpg" alt="Banner">
-				</div>
-				<div class="item">
-					<img class="no-drag" src="img/banner/t-149Casas.jpg" alt="Banner">
-				</div>
-				<div class="item">
-					<img class="no-drag" src="img/banner/t-149Comedor.jpg" alt="Banner">
-				</div>
-				<div class="item">
-					<img class="no-drag" src="img/banner/t-149Estancia.jpg" alt="Banner">
-				</div>
-				<div class="item">
-					<img class="no-drag" src="img/banner/t-149Sala.jpg" alt="Banner">
-				</div>
-				<div class="item">
-					<img class="no-drag" src="img/banner/exterior.jpg" alt="Banner">
+					<img class="no-drag" src="img/cerezos/banner/banner5.jpg" alt="Banner">
 				</div>
 			</div>
 
@@ -47,13 +32,8 @@
 			</a>
 		</div>
 	</div>
-	<div class="preventa spacing">
-		<img src="img/cerezos/left.png" class="left hidden-xs">
-		<div class="container text-center">
-			<h1 class="gray-green">FRACCIONAMIENTO rincón de los cerezos</h1>
-			<h2 class="gray">PREVENTA</h2>
-		</div>
-		<img src="img/cerezos/right.png" class="right hidden-xs">
+	<div class="preventa">
+		<img src="img/cerezos/preventa.jpg" alt="">
 	</div>
 	<div class="parallax-container modelos-parallax">
 		<div class="parallax">

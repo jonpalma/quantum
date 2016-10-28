@@ -46,7 +46,7 @@
 									<li><a href="america-latina.php">América Latina</a></li>
 									<li><a href="ricon-cerezos.php">Rincón de los Cerezos (Preventa)</a></li>
 									<li><a href="encinos-oriente.php">Encinos Oriente (Preventa)</a></li>
-									<li><a href="plaza-colon.php">Comercial Plaza Colón 305 (Preventa)</a></li>
+									<!-- <li><a href="plaza-colon.php">Comercial Plaza Colón 305 (Preventa)</a></li> -->
 									<li><a href="encinos-lotes.php">Encinos Oriente Lotes Habitacionales</a></li>
 								</ul>
 							</li>

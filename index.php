@@ -11,92 +11,24 @@
                 <li data-target="#carousel-fraccionamiento" data-slide-to="2"></li>
                 <li data-target="#carousel-fraccionamiento" data-slide-to="3"></li>
                 <li data-target="#carousel-fraccionamiento" data-slide-to="4"></li>
-                <li data-target="#carousel-fraccionamiento" data-slide-to="5"></li>
-                <li data-target="#carousel-fraccionamiento" data-slide-to="6"></li>
-                <li data-target="#carousel-fraccionamiento" data-slide-to="7"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="no-drag" src="img/banner/banner-1.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
+                    <img class="no-drag" src="img/index/banner/banner1.jpg" alt="Banner">
                 </div>
                 <div class="item">
-                    <img class="no-drag" src="img/banner/b1.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
+                    <img class="no-drag" src="img/index/banner/banner2.jpg" alt="Banner">
                 </div>
                 <div class="item">
-                    <img class="no-drag" src="img/banner/b8.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
+                    <img class="no-drag" src="img/index/banner/banner3.jpg" alt="Banner">
                 </div>
                 <div class="item">
-                    <img class="no-drag" src="img/banner/b9.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
+                    <img class="no-drag" src="img/index/banner/banner4.jpg" alt="Banner">
                 </div>
                 <div class="item">
-                    <img class="no-drag" src="img/banner/b4.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="no-drag" src="img/banner/b5.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="no-drag" src="img/banner/b6.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="no-drag" src="img/banner/b7.jpg" alt="Banner">
-                    <div class="container">
-                        <div class="carousel-caption transform-center-vertical-banner">
-                            <img src="img/banner/lines-up.png">
-                            <h1><span class="squared">Tu patrimonio</span> invertido en nuestros desarrollos ¡TU MEJOR DECISIÓN!</h1>
-                            <img src="img/banner/lines-down.png">
-                        </div>
-                    </div>
+                    <img class="no-drag" src="img/index/banner/banner5.jpg" alt="Banner">
                 </div>
             </div>
 
