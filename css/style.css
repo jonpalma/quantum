@@ -127,6 +127,10 @@ a.white:hover, a.white:focus {
     padding: 100px 15px;
 }
 
+.light-spacing {
+    padding: 50px 15px;
+}
+
 .table-container {
     display: table;
     height: 100%;
@@ -403,6 +407,25 @@ a.white:hover, a.white:focus {
     left: 0;
 }
 /* END CAROUSEL */
+
+/* BEGIN CREDITO */
+.credito h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.credito .col-sm-3 {
+    height: 150px;
+}
+
+.credito img {
+    max-height: 100%;
+    max-width: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+/* END CREDITO */
 
 /* BEGIN COTIZA */
 .cotiza {

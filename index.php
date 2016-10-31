@@ -41,12 +41,31 @@
             </a>
         </div>
     </div>
+    
+    <!-- CREDITO -->
+    <div class="credito container text-left light-spacing" id="credito">
+        <div class="container">
+            <h1 class="green header">ACEPTAMOS TU CRÉDITO:</h1>
+            <div class="green-divider"></div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-3">
+                <img src="img/credito/infonavit.png" alt="" class="transform-center-vertical">
+            </div>
+            <div class="col-sm-3">
+                <img src="img/credito/fovissste.png" alt="" class="transform-center-vertical">
+            </div>
+            <div class="col-sm-3">
+                <img src="img/credito/bancario.png" alt="" class="transform-center-vertical">
+            </div>
+        </div>
+    </div>
+    <!-- CREDITO -->
 
     <!-- COTIZA -->
     <div class="cotiza spacing text-center" id="cotiza">
         <a class="header" href="#cotiza-modal" data-toggle="modal" data-target="#cotiza-modal"><img src="img/icons/cotiza.png" alt="COTIZA"></a>
     </div>
-    
+
     <!-- COTIZA MODAL -->
     <div class="modal fade" id="cotiza-modal" role="dialog">
         <div class="modal-dialog">
